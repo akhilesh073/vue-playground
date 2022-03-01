@@ -72,11 +72,6 @@ export default {
       return data;
     },
   },
-  computed: {
-      homePage(){
-          return this.$route.path==='/';
-      }
-  },
     async created() {
     this.tasks = await this.fetchTasks();
   },
