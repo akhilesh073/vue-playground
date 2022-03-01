@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "lorem ipsum",
+      "day": "1st march 2020",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "lorem ipsum",
+      "day": "21st march 2020",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "lorem ipsum",
+      "day": "31st march 2020",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "lorem ipsum",
+      "day": "1st march 2022",
+      "reminder": true
+    }
+  ]
+}
